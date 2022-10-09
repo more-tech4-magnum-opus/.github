@@ -10,7 +10,11 @@
 - [API доументация](https://dev.akarpov.ru/redoc/#tag/blockchain)
 - [Обвязка на языке Python](https://github.com/more-tech4-magnum-opus/backend/blob/main/app/utils/blockchain.py)
 
+### сайт
+- [страница админа](https://moretech-motivation.surge.sh/admin/users)
+- [страница hr](https://moretech-motivation.surge.sh/hr)
+- [страница сотрудника](https://moretech-motivation.surge.sh/user/events)
+
 ### прочие ссылки:
 - [дизайн](https://www.figma.com/file/7DUCB1rrp7JT886Y5TeNDe/hack-more-tech-4-0?node-id=0%3A1)
-- [ссылка на демонстрацию веб-сайта](https://moretech-motivation.surge.sh/user/events)
 - [swagger](https://dev.akarpov.ru/swagger/)
